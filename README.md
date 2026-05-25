@@ -1,4 +1,7 @@
-Hi 👋, I'm Suchitra Kuchipudi
+Hi 👋,
+
+I'm Suchitra Kuchipudi
+
 Welcome to my GitHub! I’m a passionate Full Stack developer focused on building scalable, efficient, and maintainable backend systems. My core strengths is developing RESTful and asynchronous APIs, working with cloud-native solutions, and writing clean, production-ready code.
 🔭 I’m currently diving deeper into .NET Core development and backend technologies
 
@@ -12,9 +15,15 @@ Welcome to my GitHub! I’m a passionate Full Stack developer focused on buildin
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suchitrakuchipudi/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/suchitrakuchipudi/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ms_kuchipudi)
+  <a href="https://www.instagram.com/ms_kuchipudi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  </a>
+</p>
 
 ## 💻 Languages & Tools
 
